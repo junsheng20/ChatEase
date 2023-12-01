@@ -1,0 +1,22 @@
+.inputForm {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.wrapper {
+  width: 50%;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  font-size: 100px;
+}
+
+#auth {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
