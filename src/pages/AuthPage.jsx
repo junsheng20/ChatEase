@@ -20,7 +20,7 @@ export default function AuthPage() {
         <div id="auth">
           <div className="wrapper">
             <div className="logo">
-              <img src="/src/images/logo.png" />
+              <img src="public/logo.png" />
             </div>
             <div className="name">
               <h1>ChatEase</h1>
